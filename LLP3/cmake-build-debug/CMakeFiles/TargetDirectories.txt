@@ -1,0 +1,10 @@
+C:/Data/LLP3/cmake-build-debug/CMakeFiles/LLP3.dir
+C:/Data/LLP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Data/LLP3/cmake-build-debug/CMakeFiles/LLP3_1.dir
+C:/Data/LLP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Data/LLP3/cmake-build-debug/parser_module/CMakeFiles/Xpath_lib.dir
+C:/Data/LLP3/cmake-build-debug/parser_module/CMakeFiles/edit_cache.dir
+C:/Data/LLP3/cmake-build-debug/parser_module/CMakeFiles/rebuild_cache.dir
+C:/Data/LLP3/cmake-build-debug/database_module/CMakeFiles/Database_lib.dir
+C:/Data/LLP3/cmake-build-debug/database_module/CMakeFiles/edit_cache.dir
+C:/Data/LLP3/cmake-build-debug/database_module/CMakeFiles/rebuild_cache.dir
